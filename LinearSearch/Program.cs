@@ -13,3 +13,4 @@ int linearSearch(int[] arr, int val)
 	}
 	return -1;
 }
+// O(n)
